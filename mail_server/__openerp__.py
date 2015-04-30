@@ -2,7 +2,7 @@
 
 {
     'name': "Mail Server",
-    'version': '1.1',
+    'version': '1.0',
     'category': 'Mail',
     'image': 'logo.png',
     'summary': 'Mass mailing and personalized mail server',
