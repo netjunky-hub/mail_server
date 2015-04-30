@@ -5,7 +5,7 @@
 Mass mailing server can be different from default Odoo mail server (for example smtp.mandrillapp.com).
 If document model is mail.mass_mailing.contact email is sent through mass mailing server.
 
-2.) Can configure different mail servers per user
+2.) Can configure different mail server per user
 
 User can use own mail server.
 Mass mailing server is still used for mass mailing.
