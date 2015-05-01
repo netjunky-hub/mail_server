@@ -13,3 +13,7 @@ Mass mailing server is still used for mass mailing.
 3.) Mail server priority
 
 If several mail servers are defined use mail server with higher priority  (lower number = higher priority)<br>
+
+Related articles:
+
+<a href="http://netjunky.net/odoo-mass-mailing/">http://netjunky.net/odoo-mass-mailing/</a>
